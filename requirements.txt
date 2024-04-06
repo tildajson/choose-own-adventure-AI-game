@@ -1,0 +1,5 @@
+cassandra-driver
+cassio
+langchain==0.1.14
+openai
+tiktoken

@@ -1,0 +1,5 @@
+/venv
+/__pycache__
+openAI_token.py
+token.json
+secure-connect-db-virtual-enterprise.zip
